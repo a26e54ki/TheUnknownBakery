@@ -1,0 +1,35 @@
+* {
+   padding: 0;
+   margin: 0;
+   font-size: 1rem;
+   font-weight: normal;
+   box-sizing: border-box;
+   /* 游ゴシック */
+   /* font-family: "游ゴシック体", YuGothic, "游ゴシック", "Yu Gothic", sans-serif; */
+   /* 明朝体 */
+   font-family: "游明朝", YuMincho, "Hiragino Mincho ProN W3", "ヒラギノ明朝 ProN W3", "Hiragino Mincho ProN", "HG明朝E", "ＭＳ Ｐ明朝", "ＭＳ 明朝", serif;
+}
+
+ul,
+li {
+   list-style: none;
+}
+
+img {
+   vertical-align: bottom;
+}
+
+a {
+   text-decoration: none;
+   color: inherit;
+}
+
+button {
+   padding: 0;
+   background-color: transparent;
+   border: none;
+   appearance: none;
+   -moz-appearance: none;
+   -webkit-appearance: none;
+   cursor: pointer;
+}
